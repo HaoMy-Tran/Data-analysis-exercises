@@ -28,7 +28,7 @@ order_item: This is the heart of the model. Since one order can have multiple pr
 To get the model running smoothly, I spent a lot of quality time in Power Query. Here are steps I have done to build data model:
 <p align="left">
    <br>
-  <img width="1919" height="1079" alt="5ce2bb6f-5479-4802-8e8b-d585e2887317" src="https://github.com/user-attachments/assets/e16c742e-b9ef-4850-88da-2e8d29e2789a" />
+  <img width="1919" height="1079" alt="83eed999-6d26-457e-ad61-1a107c760903" src="https://github.com/user-attachments/assets/88f6fe03-8544-40a6-8126-b6b5e7efd572" />
 </p>
 
 - **Data Pre-processing**: I made sure every column was in the right format and ready to talk to other tables.<br>
