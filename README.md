@@ -1,6 +1,6 @@
 # Data analysis exercises
 ## 1. Project Overview & Dataset
-This project was a great opportunity for me to level up my data analysis skills, with a specific focus on Data Modeling. For this project, I wanted to challenge myself with architecting a solid Star Schema where the dataset does not have a clear relationships between tables
+This project was a great opportunity for me to level up my data analysis skills, with a specific focus on Data Modeling. For this project, I wanted to challenge myself with architecting a solid Snowflake Schema where the dataset does not have a clear relationships between tables
 
 A quick look at the data I worked with:
 <p align="left">
@@ -37,7 +37,7 @@ To get the model running smoothly, I spent a lot of quality time in Power Query.
 
 - **Data Pre-processing**: I made sure every column was in the right format and ready to talk to other tables.<br>
 - **Merging & Linking**: I used Merge and other transformation tools to organize the data into clear Dimension and Fact tables.<br>
-- **Designing the Star Schema:** My main goal was to build an optimal "Star" structure, ensuring that the relationships between tables were logical, clean, and efficient for reporting.
+- **Designing the Schema:** My main goal was to build an optimal Snowflake structure, ensuring that the relationships between tables were logical, clean, and efficient for reporting.
 
 ## 3. What I have learned
 
